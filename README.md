@@ -1,9 +1,6 @@
 # 資格管理アプリ
 
-
-
-
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+<image src="https://github.com/ryuzo111/licence_collection/assets/73731762/0d000902-1b4a-4b55-bf6b-8e7ddcd83cbb" width="300" />
 
 # 環境構築
 
